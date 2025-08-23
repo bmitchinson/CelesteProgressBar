@@ -1,17 +1,19 @@
 # CelesteProgressBar
 
-The Celesteeste Progress Bar for IntelliJ IDEA and other CelesteetBrains IDEs.
+https://plugins.jetbrains.com/plugin/28270-celeste-progress-bar
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar)](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar)](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/reviews)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/14708-mario-progress-bar)](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar)
+The Celesteeste Progress Bar for IntelliJ IDEA and other JetBrains IDEs.
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar/versions)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar/reviews)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/14708-mario-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar)
 
 ![MarioDeterminateBar](https://i.imgur.com/3ry0GOy.gif)
 ![LuigiDeterminateBar](https://i.imgur.com/CQPjfTb.gif)
 
 ![MarioIndeterminateBar](https://i.imgur.com/fdUDmZI.gif)
 
-This is the [Celeste Progress Bar](https://plugins.jetbrains.com/plugin/) for [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) based on the Mario Progress Bar by KikiManjaro. It displays a Celeste berry with some pico-8 platformer tiles for the basic bar and a flying strawberry for the indeterminate one.
+This is the [Celeste Progress Bar](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/) for [JetBrains IntelliJ IDEA](https://www.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/idea/) based on the Mario Progress Bar by KikiManjaro. It displays a Celeste berry with some pico-8 platformer tiles for the basic bar and a flying strawberry for the indeterminate one.
 
 ## Configuration
 
