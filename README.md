@@ -1,6 +1,6 @@
-# MarioProgressBar
+# CelesteProgressBar
 
-The Mario progress bar for IntelliJ IDEA and other JetBrains IDEs.
+The Celesteeste Progress Bar for IntelliJ IDEA and other CelesteetBrains IDEs.
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar)](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar)](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/reviews)
@@ -11,13 +11,13 @@ The Mario progress bar for IntelliJ IDEA and other JetBrains IDEs.
 
 ![MarioIndeterminateBar](https://i.imgur.com/fdUDmZI.gif)
 
-This is the [Mario Progress Bar](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar/versions) for [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) based on the Nyan Progress Bar by Dmitry Batkovitch. It display Mario with some bricks for the basic bar and a Koopa Shell for the indeterminate one.
+This is the [Celeste Progress Bar](https://plugins.jetbrains.com/plugin/) for [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) based on the Mario Progress Bar by KikiManjaro. It displays a Celeste berry with some pico-8 platformer tiles for the basic bar and a flying strawberry for the indeterminate one.
 
 ## Configuration
 
 You can access plugin's configuration in :
 
-Settings > Tools > Mario Progress Bar 
+Settings > Tools > Celeste Progress Bar
 
 You can choose your character here
 
@@ -35,7 +35,7 @@ Contributions are very welcome on this project! Please see our [contributing gui
 ### Code
 
 * The code for the progress bar was adapted from [Nyan Progess Bar](https://github.com/batya239/NyanProgressBar).
-* This plugin is of course heavily dependent on JetBrains' IntelliJ SDK  
+* This plugin is of course heavily dependent on JetBrains' IntelliJ SDK
 
 ### Misc
 

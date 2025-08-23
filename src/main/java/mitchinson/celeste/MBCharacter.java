@@ -1,9 +1,8 @@
-package manjaro.mpb;
+package mitchinson.celeste;
 
 import javax.swing.*;
 
 public enum MBCharacter {
-
     MARIO(Icons.MARIO),
     LUIGI(Icons.LUIGI);
 
@@ -16,8 +15,8 @@ public enum MBCharacter {
     public String getDisplayName() {
         return icon.getDescription();
     }
+
     public ImageIcon getIcon() {
         return icon;
     }
-
 }

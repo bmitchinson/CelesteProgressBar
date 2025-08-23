@@ -1,7 +1,7 @@
 
 # Contributing Guidelines
 
-Thank you for your interest in contributing to the Mario Progress Bar ! Please read, understand, and agree to the following before making your contribution. Please also ensure you have read and agreed to the [Code of Conduct](CODE_OF_CONDUCT.md).
+Thank you for your interest in contributing to the Celeste Progress Bar ! Please read, understand, and agree to the following before making your contribution. Please also ensure you have read and agreed to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 If you have any issues or questions, please, do not hesitate to contact [the maintainer](https://github.com/KikiManjaro) of this plugin.
 
@@ -16,7 +16,7 @@ open issue and have it assigned to you
     fork repository
             │
             v
-create feature/{issueNumber} or 
+create feature/{issueNumber} or
 {fix/issueNumber} branch based off
    of the develop branch
             |
@@ -64,5 +64,5 @@ Preferably you should be using [signed commits](https://help.github.com/en/artic
 
 ### Additional PR Information
 
-* This plugin is written using Java 8 and the IntelliJ SDK. 
+* This plugin is written using Java 8 and the IntelliJ SDK.
 * Please also do your best to follow the existing code style. You may be asked to refactor your code if it does not match the existing style, in the interest of consistency.
