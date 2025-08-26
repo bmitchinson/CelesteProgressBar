@@ -6,24 +6,13 @@ The Celesteeste Progress Bar for IntelliJ IDEA and other JetBrains IDEs.
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar/versions)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar/reviews)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/14708-mario-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar)
+[![Downloads](https://img.shields.io/jetbrains/plugin/28270-celeste-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar)
 
-![MarioDeterminateBar](https://i.imgur.com/3ry0GOy.gif)
-![LuigiDeterminateBar](https://i.imgur.com/CQPjfTb.gif)
+![CelesteDeterminateBar](https://i.imgur.com/d5brRnf.png)
 
-![MarioIndeterminateBar](https://i.imgur.com/fdUDmZI.gif)
+![CelesteIndeterminateBar](https://i.imgur.com/2ulW5K0.png)
 
 This is the [Celeste Progress Bar](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/) for [JetBrains IntelliJ IDEA](https://www.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/idea/) based on the Mario Progress Bar by KikiManjaro. It displays a Celeste berry with some pico-8 platformer tiles for the basic bar and a flying strawberry for the indeterminate one.
-
-## Configuration
-
-You can access plugin's configuration in :
-
-Settings > Tools > Celeste Progress Bar
-
-You can choose your character here
-
-![PluginConfigurationPage](https://i.imgur.com/0o2t116.png)
 
 ## Contributing
 
