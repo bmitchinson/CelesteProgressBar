@@ -1,6 +1,6 @@
 idk anything about java build systems
 
-- `./gradlew buildPlugin`
+- `./gradlew buildPlugin` --> build/distributions/**.zip
 - `./gradlew compileJava`
 - `./gradlew runIde`
 
