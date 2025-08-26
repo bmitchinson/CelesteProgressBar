@@ -17,13 +17,6 @@
       INDETERMINATE:
       <br>
       <img src="https://i.imgur.com/fdUDmZI.gif" title="CelesteIndeterminateBar" />
-      <br>
-      <br>
-      You can access plugin's configuration in :
-      <br>
-      Settings > Tools > Celeste Progress Bar
-      <br>
-      <img src="https://i.imgur.com/0o2t116.png" title="Options" />
     ]]></description>
 
   <change-notes><![CDATA[
@@ -36,13 +29,6 @@
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <applicationService
-            serviceImplementation="mitchinson.celeste.config.MarioProgressBarSettingsState" />
-    <applicationConfigurable
-            parentId="tools"
-            instance="mitchinson.celeste.config.MarioProgressBarConfigurable"
-            id="org.intellij.sdk.settings.AppSettingsConfigurable"
-            displayName="Celeste Progress Bar"/>
   </extensions>
 
   <actions>

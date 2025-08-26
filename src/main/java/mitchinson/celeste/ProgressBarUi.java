@@ -21,7 +21,6 @@ import javax.swing.*;
 import javax.swing.plaf.ComponentUI;
 import javax.swing.plaf.basic.BasicGraphicsUtils;
 import javax.swing.plaf.basic.BasicProgressBarUI;
-import mitchinson.celeste.config.MarioProgressBarSettingsState;
 
 public class ProgressBarUi extends BasicProgressBarUI {
 
@@ -243,14 +242,12 @@ public class ProgressBarUi extends BasicProgressBarUI {
             )
         );
 
-        MarioProgressBarSettingsState.getInstance()
-            .selectedCharacter.getIcon()
-            .paintIcon(
-                progressBar,
-                g2,
-                amountFull - JBUIScale.scale(5),
-                -JBUIScale.scale(1)
-            );
+        Icons.MARIO.paintIcon(
+            progressBar,
+            g2,
+            amountFull - JBUIScale.scale(5),
+            -JBUIScale.scale(1)
+        );
         g2.translate(0, -(c.getHeight() - h) / 2);
 
         if (progressBar.isStringPainted()) {
