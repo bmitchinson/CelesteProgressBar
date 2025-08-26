@@ -4,8 +4,8 @@ https://plugins.jetbrains.com/plugin/28270-celeste-progress-bar
 
 The Celesteeste Progress Bar for IntelliJ IDEA and other JetBrains IDEs.
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/14708-mario-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar/versions)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/14708-mario-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar/reviews)
+[![Version](https://img.shields.io/jetbrains/plugin/v/28270-celeste-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/28270-celeste-progress-bar/versions)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/28270-celeste-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar/plugin/14708-mario-progress-bar/reviews)
 [![Downloads](https://img.shields.io/jetbrains/plugin/28270-celeste-progress-bar)](https://plugins.plugins.jetbrains.com/plugin/28270-celeste-progress-bar)
 
 ![CelesteDeterminateBar](https://i.imgur.com/d5brRnf.png)
